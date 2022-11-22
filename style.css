@@ -1,0 +1,40 @@
+body{
+    background: plum;
+    font-family: 'Times New Roman', Times, serif;
+}
+.m{
+    line-height: .5;
+}
+.navigation-link{
+    border: 2px ;
+}
+
+h1{
+    color: pink;
+}
+p{
+    line-height: .5;
+}
+
+.container img{
+    width: 20rem;
+}
+.main_row{
+    justify-content: center;
+    align-items: center;
+      
+}
+#socialmedia{
+    color: blueviolet;
+    padding-top: 2rem;
+}
+
+.media_link{
+    padding: 1rem;
+    max-width: 1rem;
+    margin-left: 1rem;
+    border: 2px solid rgb(85, 48, 44);
+    border-radius:  0.5rem;
+
+}
+ 
